@@ -1,0 +1,21 @@
+.App {
+	display: flex;
+	justify-content: center;
+}
+
+input {
+	font-size: 28px;
+	padding: 5px 20px;
+	border-radius: 8px;
+}
+
+button {
+	font-size: 28px;
+	margin-left: 10px;
+	border-radius: 8px;
+	cursor: pointer;
+}
+ul {
+	font-size: 30px;
+	list-style: none;
+}
